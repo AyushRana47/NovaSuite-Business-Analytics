@@ -120,8 +120,6 @@ This project uses a synthetic dataset designed to reflect realistic SaaS dynamic
 * Revenue impact figures are illustrative scenarios, not financial projections
 * Usage-churn correlation is observational — a causal model would require survival analysis
 
-These limitations are documented in full in Section 10 of the final notebook.
-
 \---
 
 *Data range: January 2021 – June 2024 | 500 customers | 8 industries | 8 countries*
