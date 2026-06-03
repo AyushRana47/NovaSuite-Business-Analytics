@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_price,max_users
+P001,Basic,29,5
+P002,Pro,79,20
+P003,Business,149,50
+P004,Enterprise,299,200

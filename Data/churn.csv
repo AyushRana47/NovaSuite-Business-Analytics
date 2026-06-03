@@ -1,0 +1,37 @@
+customer_id,churn_date,reason
+C1006,2023-08-13,Poor Support
+C1018,2024-03-15,Lack of Features
+C1025,2024-06-06,Lack of Features
+C1054,2024-06-20,Budget Cut
+C1076,2024-06-30,Budget Cut
+C1077,2023-11-27,Switched to Competitor
+C1093,2024-06-11,Budget Cut
+C1098,2022-09-21,Too Expensive
+C1116,2024-03-05,Too Expensive
+C1120,2023-09-28,Budget Cut
+C1137,2023-04-07,Lack of Features
+C1153,2024-01-14,Switched to Competitor
+C1157,2023-07-19,Budget Cut
+C1171,2024-03-23,Product Complexity
+C1180,2022-01-16,Too Expensive
+C1211,2023-04-18,Switched to Competitor
+C1227,2023-12-18,Lack of Features
+C1234,2024-06-26,Too Expensive
+C1241,2022-11-17,Too Expensive
+C1263,2024-02-17,Budget Cut
+C1282,2024-01-19,Lack of Features
+C1286,2023-07-10,Lack of Features
+C1296,2024-02-21,Budget Cut
+C1335,2024-03-30,Too Expensive
+C1339,2024-03-05,Lack of Features
+C1341,2024-04-24,Budget Cut
+C1368,2024-03-28,Budget Cut
+C1370,2024-02-17,Too Expensive
+C1375,2023-08-26,Switched to Competitor
+C1388,2023-09-09,Budget Cut
+C1424,2024-05-05,Product Complexity
+C1437,2024-04-05,Budget Cut
+C1442,2023-07-05,Poor Support
+C1469,2024-06-02,Too Expensive
+C1492,2024-03-24,Too Expensive
+C1493,2023-09-21,Budget Cut
