@@ -45,14 +45,14 @@ This project builds a full analytical pipeline — data cleaning, EDA, revenue a
 ```
 novasuite/
 │
-├── novasuite\\\_part1.ipynb              # Data loading \\\& schema inspection
-├── novasuite\\\_data\\\_cleaning.ipynb      # Null checks, type fixes, referential integrity
-├── novasuite\\\_eda.ipynb                # Customer composition, distributions, correlations
-├── novasuite\\\_revenue\\\_analysis.ipynb   # MRR trends, ARPA, discount leakage, expansion
-├── NovaSuite\\\_Churn\\\_Analysis.ipynb     # Segment churn rates, usage decay, feature adoption
-├── novasuite\\\_pricing\\\_retention.ipynb  # Pricing simulation, at-risk customers, utilization
+├── NovaSuite_01_Data_Loading_Understanding.ipynb              # Data loading \\\& schema inspection
+├── NovaSuite_02_Data_Cleaning_and_Preparation.ipynb      # Null checks, type fixes, referential integrity
+├── NovaSuite_03_Exploratory_Data_Analysis.ipynb                # Customer composition, distributions, correlations
+├── NovaSuite_04_Revenue_and_Growth_Analysis.ipynb   # MRR trends, ARPA, discount leakage, expansion
+├── NovaSuite_05_Churn_Risk_Analysis.ipynb     # Segment churn rates, usage decay, feature adoption
+├── NovaSuite_06_Pricing_and_Retention_Strategy.ipynb  # Pricing simulation, at-risk customers, utilization
 │
-├── novasuite\\\_final\\\_notebook.md        # Executive summary \\\& business recommendations
+├── NovaSuite_Business_Recommendations_and_Executive_Summary.md        # Executive summary \\\& business recommendations
 │
 ├── customers.csv
 ├── plans.csv
